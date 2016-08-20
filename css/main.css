@@ -94,7 +94,7 @@ nav {
 
 #portfolio, #about, #contact{ 
   padding : 15px;		
-  border-radius: 2%;
+  border-radius: 20px;
 }
 
 #portfolio {
